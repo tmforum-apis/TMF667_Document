@@ -1,11 +1,8 @@
-# TMF667_DocumentManagement
-TM Forum Open APIs (Apache 2.0) Document Management API
+# TMF667 Document
 
-Provides the operations to synchronize documents and document versions across systems.
-It also provides operations for uploading documents by Users as well as for viewing of
-documents online.
+TM Forum Open API (Apache 2.0) Document API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, 
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+It also provides operations for uploading documents by Users as well as for viewing of documents online.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
